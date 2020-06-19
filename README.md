@@ -6,7 +6,7 @@ I design developer tools for embedded electronic systems. You can buy my project
 
 www.altiumdesignerprojects.com
 
-https://youtu.be/Hnwlc-AaNdo
+https://youtu.be/u3kd5AKiMlY
 
 
 Arduino MAX7219 Display and IR Data Input
